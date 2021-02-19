@@ -37,5 +37,6 @@
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:text="TextView"
+        android:transitionName="transOverview"
         tools:text="In a World where is no place for old men, James Bonds will conquer what no one else has suscceeded" />
 </RelativeLayout>
